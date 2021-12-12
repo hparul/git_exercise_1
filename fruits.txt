@@ -1,3 +1,5 @@
 apples
-oranges
+mango
 banana
+grapes
+melon
